@@ -74,7 +74,7 @@ while x >0.001625712:
     mccabe_x.append(x)
     mccabe_y.append(target_y)
 
-print(tray)
+print("The number of ideal stages including reboiler:",tray)
 
 plt.figure(figsize=(10, 6))
 plt.plot(x_eql, y_eql, label='McCabe-Thiele Method')
