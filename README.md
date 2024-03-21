@@ -38,6 +38,6 @@ mccabe.py
 Feel free to fork this repository and submit pull requests to contribute to the development of this script. If you encounter any issues or have suggestions for improvements, please open an issue.
 
 ## Output
-5
+The number of ideal stages including reboiler: 5
 ![Figure_1](https://github.com/enes-yapici/mccabe/assets/125216116/cb2b6c62-682d-40fe-82a1-9965ab5ca17d)
 
